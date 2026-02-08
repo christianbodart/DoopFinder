@@ -54,3 +54,8 @@ Currently, there is no ETA for release.
 
 ## 🔒 Privacy & Usage
 Please read the **[Privacy & Usage Notice](https://github.com/ItsDoodyTime/DoopFinder/blob/main/PRIVACY.md)** before using this software.
+
+---
+
+## 🚫 No Generative-AI used
+This software is 100% human-made.
