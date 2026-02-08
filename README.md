@@ -7,11 +7,49 @@ Free Duplicated File Finder Tool to help free up some space from your disk/drive
 
 ## 🚧 This Project is Still: Work in Progress!
 Currently, there is no ETA for release.
+> You might ask why make this when there are thousand others just like it?...<br>
+\- Because I just wanted to, and because it's more fun to make it myself for my own needs. :)
+
+---
+## 💎 Features
+- Supports Audio, Video, Image, and Text files:
+  - .jpg
+  - .jpeg
+  - .png
+  - .webp
+  - .gif
+  - .bmp
+  - .mp4
+  - .mov
+  - .mkv
+  - .avi
+  - .webm
+  - .txt
+  - .otd
+  - .wav
+  - .mp3
+- Checks for:
+  - Visual Similarity
+  - File Name
+  - Modified/Created Date & Time
+  - File Size
+  - File Duration/Length
+  - File Contents
+  - File Format
+  - Audio Frequency
+- Safeguards in place (Nothing is deleted without YOUR approval)
+- Smart Detection with Confidence Score
+- Fast, Light, and Optimized
+- 100% CONFIGURABLE & CUSTOMIZABLE
+- OPEN SOURCE & FREE FOREVER!
 
 ---
 
-You might ask why make this when there are thousand others just like this?... and my answer is because i just wanted to and because it's more fun to make it myself for my own needs :)
-
+## Installation
+1. Download.
+2. Extract.
+3. Run
+   
 ---
 
 ## 🔒 Privacy & Usage
