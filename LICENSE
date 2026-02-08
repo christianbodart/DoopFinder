@@ -1,0 +1,35 @@
+DoopFinder Community Attribution License (MBRCAL)
+
+Copyright (c) 2025 ItsDoodyTime
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the “Software”), to use,
+copy, and modify the Software for personal, community, and business purposes, subject to the conditions below.
+
+Conditions of Use
+
+1. Attribution:
+- All redistributions must credit the original author and all prior contributors.
+- Contributors to derivative works may add their own name, but may not remove or obscure existing attributions.
+- Attribution must be reasonably visible in source headers, documentation, or a NOTICE file.
+
+2. Source Availability:
+- Any redistributed modified version must include full corresponding source code.
+- Private, unshared modifications may remain closed-source.
+
+3. License Continuity:
+- This license must be included with all redistributions.
+- Derivative works must remain under this same license and may not be re-licensed under more restrictive terms.
+
+4. Restrictions:
+- The Software and derivative works may not be sold for a fee.
+- Closed-source or proprietary redistributions are not permitted.
+- The Software may not be claimed as solely the redistributor’s original work.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
