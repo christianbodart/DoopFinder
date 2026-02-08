@@ -58,4 +58,5 @@ Please read the **[Privacy & Usage Notice](https://github.com/ItsDoodyTime/DoopF
 ---
 
 ## 🚫 No Generative-AI used
-This software is 100% human-made.
+This software is 100% human-made.<br>
+I do not consent to the code of this software to be used to train AI models.
