@@ -2,3 +2,6 @@
 /venv
 /dist
 /logs
+/backup
+ffmpeg.exe
+ffprobe.exe
