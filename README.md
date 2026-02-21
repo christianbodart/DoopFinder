@@ -9,23 +9,67 @@ You might ask why make this when there are thousand others just like it?...<br>
 \- Because I just wanted to, and because it's more fun to make it myself for my own needs. :)
 
 ---
+
+## 📂 Supported Formats:
+
+### 🖼️ IMAGES
+- `.jpg`
+- `.jpeg`
+- `.png`
+- `.bmp`
+- `.webp`
+- `.gif`
+- `.tiff`
+- `.ico`
+
+### 🎬 VIDEOS
+- `.mp4`
+- `.mov`
+- `.mkv`
+- `.avi`
+- `.webm`
+- `.flv`
+- `.wmv`
+
+### 📝 TEXT & CODE
+- `.txt`
+- `.md`
+- `.json`
+- `.xml`
+- `.csv`
+- `.py`
+- `.js`
+- `.cpp`
+- `.html`
+- `.css`
+
+### 📄 DOCUMENTS
+- `.pdf`
+- `.doc`
+- `.docx`
+- `.xls`
+- `.xlsx`
+- `.ppt`
+- `.pptx`
+
+### 📦 ARCHIVES
+- `.zip`
+- `.rar`
+- `.7z`
+- `.tar`
+- `.gz`
+
+### ⚙️ EXECUTABLES & APPS
+- `.exe`
+- `.msi`
+- `.bat`
+- `.sh`
+- `.app`
+- `.apk`
+
+---
+
 ## 💎 Features
-- Supports Audio, Video, Image, and Text files:
-  - .jpg
-  - .jpeg
-  - .png
-  - .webp
-  - .gif
-  - .bmp
-  - .mp4
-  - .mov
-  - .mkv
-  - .avi
-  - .webm
-  - .txt
-  - .otd
-  - .wav
-  - .mp3
 - Checks for:
   - Visual Similarity
   - File Name
@@ -37,7 +81,8 @@ You might ask why make this when there are thousand others just like it?...<br>
   - Audio Frequency
 - Safeguards in place (Nothing is deleted without YOUR approval)
 - Smart Detection with Confidence Score
-- Fast, Light, and Optimized
+- Live & Post-Scan Logging (to help you understand what was flagged and why)
+- Multi-threaded, Fast, Light, and Optimized
 - 100% CONFIGURABLE & CUSTOMIZABLE
 - OPEN SOURCE & FREE FOREVER!
 
